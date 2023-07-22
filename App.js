@@ -84,7 +84,7 @@ if (process.env.NODE_ENV == "production") {
 // heroku end
 
 ser.get("*", (req, res) => {
-  ser.sendFile(path.join(__dirname, "./frontend/build/index.html"));
+  res.sendFile(path.join(__dirname, "./frontend/build/index.html"));
 });
 
 ser.listen(PORT, () => {
