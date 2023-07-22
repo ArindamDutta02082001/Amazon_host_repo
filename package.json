@@ -1,0 +1,26 @@
+{
+  "name": "payment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4",
+    "stripe": "^8.222.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix amazon && npm run build --prefix amazon",
+    "frontend":"npm start --prefix ./frontend", 
+    "dev": "concurrently \"npm start\" \"npm run frontend\""
+  },
+  "engines": {
+    "npm": "8.18.0",
+    "node": "14.15.4"
+  },
+  "author": "",
+  "license": "ISC"
+}

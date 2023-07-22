@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e45fe66.chunk.css",
+    "main.js": "/static/js/main.e4da88e0.chunk.js",
+    "main.js.map": "/static/js/main.e4da88e0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.032a4c63.js",
+    "runtime-main.js.map": "/static/js/runtime-main.032a4c63.js.map",
+    "static/css/2.f38c7e7f.chunk.css": "/static/css/2.f38c7e7f.chunk.css",
+    "static/js/2.d4c3bdd4.chunk.js": "/static/js/2.d4c3bdd4.chunk.js",
+    "static/js/2.d4c3bdd4.chunk.js.map": "/static/js/2.d4c3bdd4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f38c7e7f.chunk.css.map": "/static/css/2.f38c7e7f.chunk.css.map",
+    "static/css/main.8e45fe66.chunk.css.map": "/static/css/main.8e45fe66.chunk.css.map",
+    "static/js/2.d4c3bdd4.chunk.js.LICENSE.txt": "/static/js/2.d4c3bdd4.chunk.js.LICENSE.txt",
+    "static/media/AmazonBanner.cceff89e.jpg": "/static/media/AmazonBanner.cceff89e.jpg",
+    "static/media/CheckoutBanner.866baed6.jfif": "/static/media/CheckoutBanner.866baed6.jfif",
+    "static/media/book.fde9b073.jfif": "/static/media/book.fde9b073.jfif",
+    "static/media/all.css": "/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/prime.6ada3158.webp": "/static/media/prime.6ada3158.webp",
+    "static/media/uplo.236698f8.jpg": "/static/media/uplo.236698f8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.032a4c63.js",
+    "static/css/2.f38c7e7f.chunk.css",
+    "static/js/2.d4c3bdd4.chunk.js",
+    "static/css/main.8e45fe66.chunk.css",
+    "static/js/main.e4da88e0.chunk.js"
+  ]
+}
