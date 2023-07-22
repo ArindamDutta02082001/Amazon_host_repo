@@ -83,7 +83,7 @@ if (process.env.NODE_ENV == "production") {
 }
 // heroku end
 
-ser.get("*", async (req, res) => {
+ser.get("*", (req, res) => {
   ser.sendFile(path.join(__dirname, "./frontend/build/index.html"));
 });
 
